@@ -22,7 +22,7 @@ private String payusalt;
 	public String login(HttpServletRequest request,@RequestBody Login login) {
 		 
 		
-		System.out.println("Authcode :-- ");
+		System.out.println("vikas update contoller :-- ");
 		
 		System.out.println("API:--: "+payusalt);
 		
